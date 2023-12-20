@@ -82,7 +82,8 @@
     padding: 0.3rem;
 }
 
-.card-versus {
+.card-versus__container {
+    margin-top: 5rem;
     display: flex;
     flex-direction: column;
     padding-top: 0.2rem;
@@ -112,3 +113,9 @@
     justify-content: space-around;
 }
 
+.card-infield {
+    height: 11.2rem;
+    width: 8rem;
+
+    border-radius: 8px;
+}
