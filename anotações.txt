@@ -1,0 +1,1 @@
+code refactor extract to method = pegar uma função grande e extrair em funções menores.
